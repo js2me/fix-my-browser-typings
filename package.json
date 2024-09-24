@@ -1,0 +1,11 @@
+{
+  "name": "fix-my-browser-typings",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.d.ts",
+  "module": "index.d.ts",
+  "typings": "index.d.ts",
+  "keywords": [],
+  "author": "js2me",
+  "license": "ISC"
+}
